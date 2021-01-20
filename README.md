@@ -16,3 +16,5 @@ Datasets for practise :
    - [myntra fashion product images -big](https://www.kaggle.com/paramaggarwal/fashion-product-images-dataset)
     
     
+* Flickr8k Dataset :
+   - [flickr8k dataset](https://www.kaggle.com/adityajn105/flickr8k/download) 
